@@ -1,6 +1,6 @@
-## MINI PROJECT - HOTEL BOOKING
+## HOTEL Reservation
 
-### CREATED BY AMYGANZ USING SPRINGBOOT
+### Created By Amyganz Using Springboot
 
 Methods that I implements in this project:
 - Microservices
