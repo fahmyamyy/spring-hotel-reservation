@@ -1,4 +1,4 @@
-## HOTEL Reservation
+## Hotel Reservation
 
 ### Created By Amyganz Using Springboot
 
